@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Result" msdata:Locale="">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Result" msdata:Locale="">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="customerId" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="xs:string" minOccurs="0" />
+                <xs:element name="customerNumber" type="xs:string" minOccurs="0" />
+                <xs:element name="name" type="xs:string" minOccurs="0" />
+                <xs:element name="totalSalesAmount" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Result>
+    <customerId>bdae0e09-ed8b-46db-a184-13b5229b2147</customerId>
+    <customerNumber>42147258</customerNumber>
+    <name>BYT-KOMPLET s.r.o.</name>
+    <totalSalesAmount>1602.9</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>70939339-99e5-484f-9384-40ecad8212db</customerId>
+    <customerNumber>01454545</customerNumber>
+    <name>New Concepts Furniture</name>
+    <totalSalesAmount>0</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>711014a7-74a5-4aed-8e1b-446fff51d04a</customerId>
+    <customerNumber>49525252</customerNumber>
+    <name>Beef House</name>
+    <totalSalesAmount>6000</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>c98aa410-af9a-4027-8659-44d732ce84ca</customerId>
+    <customerNumber>20000</customerNumber>
+    <name>Selangorian Ltd.</name>
+    <totalSalesAmount>6510.64</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>437b7cc9-7733-4764-98dc-4f088ea02fbc</customerId>
+    <customerNumber>30000</customerNumber>
+    <name>John Haddock Insurance Co.</name>
+    <totalSalesAmount>6142.9</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>bc0c413a-c726-4257-a282-553f5f4baf95</customerId>
+    <customerNumber>43687129</customerNumber>
+    <name>Designstudio Gmunden</name>
+    <totalSalesAmount>13732.6</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>4ec818a7-9bf6-4b93-8de6-5e1e65fa11e5</customerId>
+    <customerNumber>40000</customerNumber>
+    <name>Deerfield Graphics Company</name>
+    <totalSalesAmount>1063.1</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>0fa46cd2-2e64-4163-8b83-610572acb193</customerId>
+    <customerNumber>47563218</customerNumber>
+    <name>Klubben</name>
+    <totalSalesAmount>11772.2</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>2cda87a0-d1ab-44f8-a6ed-63bf503a1ff3</customerId>
+    <customerNumber>49633663</customerNumber>
+    <name>Autohaus Mielberg KG</name>
+    <totalSalesAmount>4331.4</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>124aba62-3343-44cb-9e14-8a5161626bc8</customerId>
+    <customerNumber>46897889</customerNumber>
+    <name>Englunds Kontorsmöbler AB</name>
+    <totalSalesAmount>673.71</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>fc0e2f2d-6f21-446d-a6be-8b82c6b5b9fe</customerId>
+    <customerNumber>50000</customerNumber>
+    <name>Guildford Water Department</name>
+    <totalSalesAmount>533.4</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>0da89b69-7b2c-4a2d-9bb8-9e0c517525d8</customerId>
+    <customerNumber>01445544</customerNumber>
+    <name>Progressive Home Furnishings</name>
+    <totalSalesAmount>1499.03</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>3c07a120-e5ab-48ea-bd12-aaa9c113c4ab</customerId>
+    <customerNumber>35451236</customerNumber>
+    <name>Gagn &amp; Gaman</name>
+    <totalSalesAmount>877.32</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>5edb207f-644a-4385-a5a9-b0d60f14e5f3</customerId>
+    <customerNumber>49858585</customerNumber>
+    <name>Hotel Pferdesee</name>
+    <totalSalesAmount>14395.75</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>bb8c382b-2bde-4bb6-aea1-c0b18a32d143</customerId>
+    <customerNumber>32656565</customerNumber>
+    <name>Antarcticopy</name>
+    <totalSalesAmount>2582.8</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>3fb07748-3fa6-4135-b75d-ce6bd30885f0</customerId>
+    <customerNumber>35963852</customerNumber>
+    <name>Heimilisprydi</name>
+    <totalSalesAmount>2024.21</totalSalesAmount>
+  </Result>
+  <Result>
+    <customerId>d6dfb35b-aa2f-4aa7-9e17-fffa21bffd6d</customerId>
+    <customerNumber>10000</customerNumber>
+    <name>The Cannon Group PLC</name>
+    <totalSalesAmount>17100.96</totalSalesAmount>
+  </Result>
+</DataSet>
